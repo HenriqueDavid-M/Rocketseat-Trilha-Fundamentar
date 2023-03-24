@@ -1,0 +1,29 @@
+body {
+    background-color: whitesmoke;
+}
+h1.Nome {
+    font-family: 'Kanit', sans-serif;
+    font-size: 90px;
+    border: 10px;
+    color: orangered;
+    background-position: center;
+    margin: 10px;
+    background-color: black;
+}
+
+h1.Name {
+    font-family: 'Kanit', sans-serif;
+    font-size: 90px;
+    border: 10px;
+    color: blue;
+    background-position: center;
+    margin: 10px;
+    background-color: white;
+}
+.Dados {
+    margin: 100px;
+    border: 10px;
+}
+.Botão {
+    color: green;
+}
