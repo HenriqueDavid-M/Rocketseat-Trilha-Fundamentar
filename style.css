@@ -4,7 +4,7 @@ body {
 h1.Nome {
     font-family: 'Kanit', sans-serif;
     font-size: 90px;
-    border: 10px;
+    border: 10px solid orange;
     color: orangered;
     background-position: center;
     margin: 10px;
@@ -14,7 +14,7 @@ h1.Nome {
 h1.Name {
     font-family: 'Kanit', sans-serif;
     font-size: 90px;
-    border: 10px;
+    border: 10px solid blueviolet;
     color: blue;
     background-position: center;
     margin: 10px;
@@ -22,7 +22,8 @@ h1.Name {
 }
 .Dados {
     margin: 100px;
-    border: 10px;
+    border: 5px solid black;
+    padding: 10px;
 }
 .Botão {
     color: green;
