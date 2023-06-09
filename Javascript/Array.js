@@ -1,0 +1,1 @@
+console.log(["Henrique", 17, "Ovos", "Leite"])
